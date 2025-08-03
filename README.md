@@ -35,21 +35,22 @@ To set up the project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
 
-3.Run the application:
+3. Run the application:
 
   ```bash
-  python app.py
+   python app.py
 
 
-4.Open your web browser and go to http://127.0.0.1:5000/predict
+4. Open your web browser and go to http://127.0.0.1:5000/predict
 
-Usage
+## Usage
+
 Navigate to the web interface.
-Input the features of the scheme you want to classify.
+Input the features values.
 Click on the "Predict" button to get the predicted category.
 
-Dataset
+## Dataset
 The dataset used for training the model is located in the Dataset folder. It contains various features related to PMGSY schemes.
 
-Model
+## Model
 The classification model is implemented in the Model folder. The model is trained using the dataset and can be modified or retrained as needed.
