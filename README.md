@@ -48,9 +48,9 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-Navigate to the web interface.
-Input the features values.
-Click on the "Predict" button to get the predicted category.
+- Navigate to the web interface.
+- Input the features values.
+- Click on the "Predict" button to get the predicted category.
 
 ## Dataset
 The dataset used for training the model is located in the Dataset folder. It contains various features related to PMGSY schemes.
