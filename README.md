@@ -1,5 +1,8 @@
 # PMGSY Scheme Classifier
 
+## Check it out here
+https://pmgsy-scheme-classifier.onrender.com/
+
 ## Overview
 The PMGSY Scheme Classifier is designed to assist in the classification of various schemes under the Pradhan Mantri Gram Sadak Yojana (PMGSY), a government initiative aimed at providing all-weather road connectivity to unconnected villages in India. This project leverages machine learning techniques to analyze and categorize schemes based on their features, enabling stakeholders to make informed decisions regarding infrastructure development.
 The classifier is built using Python and Flask, providing a web-based interface for users to input scheme details and receive instant classification results. The underlying model is trained on a comprehensive dataset that includes various attributes of PMGSY schemes, ensuring accurate predictions.
