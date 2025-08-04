@@ -12,8 +12,6 @@ By automating the classification process, this project aims to enhance the effic
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Model](#model)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -44,7 +42,7 @@ To set up the project locally, follow these steps:
    ```
 
 
-4. Open your web browser and go to http://127.0.0.1:5000/predict
+4. Open your web browser and go to http://127.0.0.1:5000/
 
 ## Usage
 
