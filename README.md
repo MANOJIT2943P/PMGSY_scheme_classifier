@@ -12,8 +12,6 @@ By automating the classification process, this project aims to enhance the effic
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Model](#model)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
