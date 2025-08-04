@@ -44,7 +44,7 @@ To set up the project locally, follow these steps:
    ```
 
 
-4. Open your web browser and go to http://127.0.0.1:5000/predict
+4. Open your web browser and go to http://127.0.0.1:5000/
 
 ## Usage
 
