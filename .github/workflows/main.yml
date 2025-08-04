@@ -1,0 +1,13 @@
+name: Wake up Render
+
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Every 15 minutes (UTC time)
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  ping-render:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl your Render app
+        run: curl -s https://pmgsy-scheme-classifier.onrender.com/ > /dev/null
